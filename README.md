@@ -38,7 +38,7 @@ $${ \frac { \left(\sum_{i=1}^{n}u_{i}\right)^{2}}{\sum_{i=1}^{n}v_{i}}}\leq \sum
 
 - Another Modification
 
-$${{(\sum_{i=1}^{n}u_{i})^{2}}\over{\sum_{i=1}^{n}v_{i}}}\leq \sum_{i=1}^{n}{{u_{i}^{2}}\over{v_{i}}}\quad {\text{ or equivalently, }}\quad {{\left(u_{1}+u_{2}+\cdots +u_{n}\right)^{2}}\over{v_{1}+v_{2}+\cdots +v_{n}}}\leq {{u_{1}^{2}}\over{v_{1}}}+{{u_{2}^{2}}\over{v_{2}}}+\cdots +{{u_{n}^{2}}\over{v_{n}}}$$
+$${{(\sum _{i=1}^{n}u_{i})^{2}}\over{\sum _{i=1}^{n}v_{i}}}\leq \sum\quad_{i=1}^{n}{{u_{i}^{2}}\over{v_{i}}}\quad {\text{ or equivalently, }}\quad {{\left(u_{1}+u_{2}+\cdots +u_{n}\right)^{2}}\over{v_{1}+v_{2}+\cdots +v_{n}}}\leq {{u_{1}^{2}}\over{v_{1}}}+{{u_{2}^{2}}\over{v_{2}}}+\cdots +{{u_{n}^{2}}\over{v_{n}}}$$
 
 
 
