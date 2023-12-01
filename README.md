@@ -14,9 +14,7 @@
 
 - 📫 How to contact me: **osvaldo.martini@gmail.com**
 
-- ⚡ Curiosities **Always in a good mood, I'm funny**
-
-- ⚡ Curiosities **Always in a good mood, I'm funny**
+- ⚡ Curiosities **I'm funny and always in a good mood**
 
 - ⚡ Currently, I am working on a migration from Delphi Pascal (More than 60K lines of code done in 2004) for Java, Python, React, Kafka Stream, etc. 
 
