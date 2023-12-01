@@ -45,20 +45,23 @@ $${\frac {\left(u_{1}+u_{2}+\cdots +u_{n}\right)^{2}}{v_{1}+v_{2}+\cdots +v_{n}}
 <!--
 [![Little red riding hood](linkedin.png)](https://www.linkedin.com/in/osvaldomartini/ "Osvaldo Martini")
 
+-->
+<style>
 img, span {
   display: inline-block;
   vertical-align: middle;
 }
 
 span {
-  margin-bottom: -2px;
+  margin-bottom: 0px;
 }
+</style>
 
--->
+
 
 --------------------------------
 
-- Connect with me: [<img src="./linkedin.png" style="margin:0 0 -10px ;width:30px;" />](https://www.linkedin.com/in/osvaldomartini/ "Osvaldo Martini!")
+- Connect with me: [<img src="./linkedin.png" width="30px;" />](https://www.linkedin.com/in/osvaldomartini/ "Osvaldo Martini!")
   
 <h3 align="left">Languages ​​and Tools:</h3>
 
