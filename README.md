@@ -22,9 +22,7 @@
 
 - If you want to participate, visit the repository: [Algol](https://github.com/OsvaldoMartini/OsvaldoMartini)
 
-<div align="center">
-<a href="https://youtu.be/EDn2VHgbCCY" target="blank"><img align="center" src="YouTube.png" alt="YouTube"  width="40" / />Random Number Prediction Past -> Present -> Future</a>
-</div>
+- YouTube: [Random Number Map of Prediction: Past -> Present -> Future](https://youtu.be/EDn2VHgbCCY)
 
 <div align="center">
 <a target="blank"><img align="center" src="base-maths.png" alt="rishav-chanda-b89a791b3"  /></a>
