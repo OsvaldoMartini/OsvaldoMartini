@@ -20,11 +20,9 @@
 
 - ⚡ Currently, I am working on a migration from Delphi Pascal (More than 60K lines of code done in 2004) for Java, Python, React, Kafka Stream, etc. 
 
-- ⚡ If you want to participate, visit the repository: 
+- ⚡ If you want to participate, visit the repository: [Algol](https://github.com/OsvaldoMartini/OsvaldoMartini)
 
-https://github.com/OsvaldoMartini/OsvaldoMartini
-
-![](https://geps.dev/progress/50)[Random Number Prediction Past -> Present -> Future](https://youtu.be/EDn2VHgbCCY)
+- $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$ ![](https://geps.dev/progress/50) -> [Random Number Prediction Past -> Present -> Future](https://youtu.be/EDn2VHgbCCY)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
