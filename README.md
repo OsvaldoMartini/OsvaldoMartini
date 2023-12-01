@@ -33,6 +33,15 @@ $${{\left(\sum _{i=1}^{n}u_{i}\right)^{2}}\over{\sum_{i=1}^{n}v_{i}}}$$
 
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$ 
 
+TO CHANGE
+
+$${\frac {\left(\sum_{i=1}^{n}u_{i}\right)^{2}}{\sum_{i=1}^{n}v_{i}}}\leq \sum_{i=1}^{n}
+
+{{u_{i}^{2}}\over{v_{i}}}\quad {\text{ or equivalently, }}\quad 
+
+{{\left(u_{1}+u_{2}+\cdots +u_{n}\right)^{2}}\over{v_{1}+v_{2}+\cdots +v_{n}}}\leq {{u_{1}^{2}}\over{v_{1}}}+{ {u_{2}^{2}}\over{v_{2}}}+\cdots +{{u_{n}^{2}}\over{v_{n}}}$$
+
+
 
 When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
