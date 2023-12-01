@@ -39,7 +39,13 @@ $${\frac {\left(\sum_{i=1}^{n}u_{i}\right)^{2}}{\sum_{i=1}^{n}v_{i}}}\leq \sum_{
 - another
 $${\frac {\left(\sum_{i=1}^{n}u_{i}\right)^{2}}{\sum_{i=1}^{n}v_{i}}}\leq \sum_{i=1}^{n}{\frac {u_{i}^{2}}{v_{i}}}\quad {\text{ or equivalently, }}\quad {\frac {\left(u_{1}+u_{2}+\cdots +u_{n}\right)^{2}}{v_{1}+v_{2}+\cdots +v_{n}}}\leq {\frac {u_{1}^{2}}{v_{1}}}+{\frac {u_{2}^{2}}{v_{2}}}+\cdots +{\frac {u_{n}^{2}}{v_{n}}}$$
 
-$${\frac {(\sum_{i=1}^{n}u_{i})^{2}}{ \textstyle \sum_{i=1}^{n}v_{i}}}\leq  \sum_{i=1}^{n}{\frac {u_{i}^{2}}{v_{i}}} \quad {\text{ or equivalently, }}\quad {\frac {\left(u_{1}+u_{2}+\cdots +u_{n}\right)^{2}}{v_{1}+v_{2}+\cdots +v_{n}}}\leq {\frac {u_{1}^{2}}{v_{1}}}+{\frac {u_{2}^{2}}{v_{2}}}+\cdots +{\frac {u_{n}^{2}}{v_{n}}}$$
+$${\frac {\left(\sum_{i=1}^{n}u_{i}\right)^{2}}{\sum_{i=1}^{n}v_{i}}}\quad \leq \quad \sum_{i=1}^{n}{\frac {u_{i}^{2}}{v_{i}}}$$
+
+
+$${\text{ or equivalently}}$$
+
+$${\frac {\left(u_{1}+u_{2}+\cdots +u_{n}\right)^{2}}{v_{1}+v_{2}+\cdots +v_{n}}}\leq {\frac {u_{1}^{2}}{v_{1}}}+{\frac {u_{2}^{2}}{v_{2}}}+\cdots +{\frac {u_{n}^{2}}{v_{n}}}$$
+
 
 
 
