@@ -1,6 +1,6 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-<h1 align="center">Olá 👋, Eu Osvaldo Martini</h1>
-<h3 align="center">Um apaixonado Desenvolvedor FullStack</h3>
+<h1 align="center">Hi 👋, I am Osvaldo Martini</h1>
+<h3 align="center">A passionate FullStack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -8,21 +8,21 @@
 
 
 
-- 🔭 Atualmente estou atuando como Freelancer **Aberto a oportunidades**
+- 🔭 I am currently working as a Freelancer **Open to opportunities**
 
-- 🌱 Atualmente estou me aprofundando em  **React Js | React Native**
+- 🌱 I'm currently delving into **React Js | React Native**
 
-- 💬 Pergunte-me sobre minhas Skills **React Js , React Native, JavaScript, Python  **
+- 💬 Ask me about my Skills **React Js, React Native, JavaScript, Python **
 
-- 📫 Como entrar em contato comigo: **osvaldo.martini@gmail.com**
+- 📫 How to contact me: **osvaldo.martini@gmail.com**
 
-- ⚡ Curiosidades **Eu sou engraçado**
+- ⚡ Curiosities **Always in a good mood, I'm funny**
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/osvaldomartini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
   
-<h3 align="left">Linguagens e Ferramentas:</h3>
+<h3 align="left">Languages ​​and Tools:</h3>
 
 <div style="display: flex; flex-direction: row; align-items: center;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;">
