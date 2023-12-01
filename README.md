@@ -35,7 +35,7 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 TO CHANGE
 
-$${\frac {\left(\sum_{i=1}^{n}u_{i}\right)^{2}}{\sum_{i=1}^{n}v_{i}}}\leq \sum_{i=1}^{n}
+$${{\left(\sum_{i=1}^{n}u_{i}\right)^{2}}\over{\sum_{i=1}^{n}v_{i}}}\leq \sum_{i=1}^{n}
 
 {{u_{i}^{2}}\over{v_{i}}}\quad {\text{ or equivalently, }}\quad 
 
