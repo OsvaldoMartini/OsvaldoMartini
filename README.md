@@ -41,7 +41,7 @@ $${\frac {\left(\sum_{i=1}^{n}u_{i}\right)^{2}}{\sum_{i=1}^{n}v_{i}}}\leq \sum_{
 
 
 
-
+<div>
 <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
   <mrow data-mjx-texclass="ORD">
     <mfrac>
@@ -254,6 +254,7 @@ $${\frac {\left(\sum_{i=1}^{n}u_{i}\right)^{2}}{\sum_{i=1}^{n}v_{i}}}\leq \sum_{
     </mfrac>
   </mrow>
 </math>
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
