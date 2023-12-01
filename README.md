@@ -26,6 +26,11 @@
 <a href="https://youtu.be/EDn2VHgbCCY" target="blank"><img align="center" src="YouTube.png" alt="rishav-chanda-b89a791b3"  />Random Number Prediction Past -> Present -> Future</a>
 </div>
 
+<div align="center">
+<a target="blank"><img align="center" src="base-maths.png" alt="rishav-chanda-b89a791b3"  /></a>
+</div>
+
+<!-- 
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
 $${\frac {\left(\sum_{i=1}^{n}u_{i}\right)^{2}}{\sum_{i=1}^{n}v_{i}}}\quad \leq \quad \sum_{i=1}^{n}{\frac {u_{i}^{2}}{v_{i}}}$$
@@ -33,99 +38,7 @@ $${\frac {\left(\sum_{i=1}^{n}u_{i}\right)^{2}}{\sum_{i=1}^{n}v_{i}}}\quad \leq 
 $${\text{ or equivalently}}$$
 
 $${\frac {\left(u_{1}+u_{2}+\cdots +u_{n}\right)^{2}}{v_{1}+v_{2}+\cdots +v_{n}}}\leq {\frac {u_{1}^{2}}{v_{1}}}+{\frac {u_{2}^{2}}{v_{2}}}+\cdots +{\frac {u_{n}^{2}}{v_{n}}}$$
-
-
-<div align="center">
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-  <mrow data-mjx-texclass="ORD">
-    <mfrac>
-      <msup>
-        <mrow data-mjx-texclass="INNER">
-          <mo data-mjx-texclass="OPEN">(</mo>
-          <munderover>
-            <mo data-mjx-texclass="OP">&#x2211;</mo>
-            <mrow data-mjx-texclass="ORD">
-              <mi>i</mi>
-              <mo>=</mo>
-              <mn>1</mn>
-            </mrow>
-            <mrow data-mjx-texclass="ORD">
-              <mi>n</mi>
-            </mrow>
-          </munderover>
-          <msub>
-            <mi>u</mi>
-            <mrow data-mjx-texclass="ORD">
-              <mi>i</mi>
-            </mrow>
-          </msub>
-          <mo data-mjx-texclass="CLOSE">)</mo>
-        </mrow>
-        <mrow data-mjx-texclass="ORD">
-          <mn>2</mn>
-        </mrow>
-      </msup>
-      <mrow>
-        <munderover>
-          <mo data-mjx-texclass="OP">&#x2211;</mo>
-          <mrow data-mjx-texclass="ORD">
-            <mi>i</mi>
-            <mo>=</mo>
-            <mn>1</mn>
-          </mrow>
-          <mrow data-mjx-texclass="ORD">
-            <mi>n</mi>
-          </mrow>
-        </munderover>
-        <msub>
-          <mi>v</mi>
-          <mrow data-mjx-texclass="ORD">
-            <mi>i</mi>
-          </mrow>
-        </msub>
-      </mrow>
-    </mfrac>
-  </mrow>
-  <mstyle scriptlevel="0">
-    <mspace width="1em"></mspace>
-  </mstyle>
-  <mo>&#x2264;</mo>
-  <mstyle scriptlevel="0">
-    <mspace width="1em"></mspace>
-  </mstyle>
-  <munderover>
-    <mo data-mjx-texclass="OP">&#x2211;</mo>
-    <mrow data-mjx-texclass="ORD">
-      <mi>i</mi>
-      <mo>=</mo>
-      <mn>1</mn>
-    </mrow>
-    <mrow data-mjx-texclass="ORD">
-      <mi>n</mi>
-    </mrow>
-  </munderover>
-  <mrow data-mjx-texclass="ORD">
-    <mfrac>
-      <msubsup>
-        <mi>u</mi>
-        <mrow data-mjx-texclass="ORD">
-          <mi>i</mi>
-        </mrow>
-        <mrow data-mjx-texclass="ORD">
-          <mn>2</mn>
-        </mrow>
-      </msubsup>
-      <msub>
-        <mi>v</mi>
-        <mrow data-mjx-texclass="ORD">
-          <mi>i</mi>
-        </mrow>
-      </msub>
-    </mfrac>
-  </mrow>
-</math>
-</div>
-
+ -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
