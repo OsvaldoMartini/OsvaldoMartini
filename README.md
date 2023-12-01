@@ -18,8 +18,12 @@
 
 - ⚡ Curiosities **Always in a good mood, I'm funny**
 
-Currently, I am working on a migration from Delphi Pascal (More than 60K lines of code done in 2004) for Java, Python, React, Kafka Stream, etc. 
-If you want to participate, visit the repository: https://github.com/OsvaldoMartini/OsvaldoMartini
+- ⚡ Currently, I am working on a migration from Delphi Pascal (More than 60K lines of code done in 2004) for Java, Python, React, Kafka Stream, etc. 
+
+- ⚡ If you want to participate, visit the repository: 
+
+https://github.com/OsvaldoMartini/OsvaldoMartini
+
 ![](https://geps.dev/progress/50)[Random Number Prediction Past -> Present -> Future](https://youtu.be/EDn2VHgbCCY)
 
 <h3 align="left">Connect with me:</h3>
