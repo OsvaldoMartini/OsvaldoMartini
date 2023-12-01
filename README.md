@@ -24,20 +24,7 @@
 
 - ![Alt text](YouTube.png) [Random Number Prediction Past -> Present -> Future](https://youtu.be/EDn2VHgbCCY)
 
-$$\left( \sum_{k=1}^n a_k \over b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
-
- $$\sum$$
-
- - ANOTHER
-
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
-
-- ANTOHER 
-
-$${\frac {\left(\sum_{i=1}^{n}u_{i}\right)^{2}}{\sum_{i=1}^{n}v_{i}}}\leq \sum_{i=1}^{n}{\frac {u_{i}^{2}}{v_{i}}}\quad {\text{ or equivalently, }}\quad {\frac {\left(u_{1}+u_{2}+\cdots +u_{n}\right)^{2}}{v_{1}+v_{2}+\cdots +v_{n}}}\leq {\frac {u_{1}^{2}}{v_{1}}}+{\frac {u_{2}^{2}}{v_{2}}}+\cdots +{\frac {u_{n}^{2}}{v_{n}}}$$
-
-- another
-$${\frac {\left(\sum_{i=1}^{n}u_{i}\right)^{2}}{\sum_{i=1}^{n}v_{i}}}\leq \sum_{i=1}^{n}{\frac {u_{i}^{2}}{v_{i}}}\quad {\text{ or equivalently, }}\quad {\frac {\left(u_{1}+u_{2}+\cdots +u_{n}\right)^{2}}{v_{1}+v_{2}+\cdots +v_{n}}}\leq {\frac {u_{1}^{2}}{v_{1}}}+{\frac {u_{2}^{2}}{v_{2}}}+\cdots +{\frac {u_{n}^{2}}{v_{n}}}$$
 
 $${\frac {\left(\sum_{i=1}^{n}u_{i}\right)^{2}}{\sum_{i=1}^{n}v_{i}}}\quad \leq \quad \sum_{i=1}^{n}{\frac {u_{i}^{2}}{v_{i}}}$$
 
