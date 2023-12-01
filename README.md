@@ -24,7 +24,7 @@
 
 - ![Alt text](YouTube.png) [Random Number Prediction Past -> Present -> Future](https://youtu.be/EDn2VHgbCCY)
 
-\left( \sum_{k=1}^n a_k \over b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+$$\left( \sum_{k=1}^n a_k \over b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
  $$\sum$$
 
