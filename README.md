@@ -25,7 +25,7 @@
 - YouTube: [Random Number Map of Prediction: Past -> Present -> Future](https://youtu.be/EDn2VHgbCCY)
 
 <div align="center">
-<a target="blank"><img align="center" src="base-maths.png" alt="rishav-chanda-b89a791b3"  /></a>
+<a target="blank"><img align="center" src="base-maths.png"   /></a>
 </div>
 
 <!-- 
@@ -40,7 +40,7 @@ $${\frac {\left(u_{1}+u_{2}+\cdots +u_{n}\right)^{2}}{v_{1}+v_{2}+\cdots +v_{n}}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/osvaldomartini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/osvaldomartini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
   
 <h3 align="left">Languages ​​and Tools:</h3>
 
