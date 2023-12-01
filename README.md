@@ -37,10 +37,23 @@ $${\text{ or equivalently}}$$
 
 $${\frac {\left(u_{1}+u_{2}+\cdots +u_{n}\right)^{2}}{v_{1}+v_{2}+\cdots +v_{n}}}\leq {\frac {u_{1}^{2}}{v_{1}}}+{\frac {u_{2}^{2}}{v_{2}}}+\cdots +{\frac {u_{n}^{2}}{v_{n}}}$$
  -->
+<!--
+[![Little red riding hood](linkedin.png)](https://www.linkedin.com/in/osvaldomartini/ "Osvaldo Martini")
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/osvaldomartini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
+img, span {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+span {
+  margin-bottom: -2px;
+}
+
+-->
+
+
+
+- Connect with me: [<img src="./linkedin.png" width="30" span/>](https://www.linkedin.com/in/osvaldomartini/ "Osvaldo Martini!")
   
 <h3 align="left">Languages ​​and Tools:</h3>
 
