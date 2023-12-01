@@ -42,8 +42,219 @@ $${\frac {\left(\sum_{i=1}^{n}u_{i}\right)^{2}}{\sum_{i=1}^{n}v_{i}}}\leq \sum_{
 
 
 
-When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mrow data-mjx-texclass="ORD">
+    <mfrac>
+      <msup>
+        <mrow data-mjx-texclass="INNER">
+          <mo data-mjx-texclass="OPEN">(</mo>
+          <munderover>
+            <mo data-mjx-texclass="OP">&#x2211;</mo>
+            <mrow data-mjx-texclass="ORD">
+              <mi>i</mi>
+              <mo>=</mo>
+              <mn>1</mn>
+            </mrow>
+            <mrow data-mjx-texclass="ORD">
+              <mi>n</mi>
+            </mrow>
+          </munderover>
+          <msub>
+            <mi>u</mi>
+            <mrow data-mjx-texclass="ORD">
+              <mi>i</mi>
+            </mrow>
+          </msub>
+          <mo data-mjx-texclass="CLOSE">)</mo>
+        </mrow>
+        <mrow data-mjx-texclass="ORD">
+          <mn>2</mn>
+        </mrow>
+      </msup>
+      <mrow>
+        <munderover>
+          <mo data-mjx-texclass="OP">&#x2211;</mo>
+          <mrow data-mjx-texclass="ORD">
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mrow data-mjx-texclass="ORD">
+            <mi>n</mi>
+          </mrow>
+        </munderover>
+        <msub>
+          <mi>v</mi>
+          <mrow data-mjx-texclass="ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mo>&#x2264;</mo>
+  <munderover>
+    <mo data-mjx-texclass="OP">&#x2211;</mo>
+    <mrow data-mjx-texclass="ORD">
+      <mi>i</mi>
+      <mo>=</mo>
+      <mn>1</mn>
+    </mrow>
+    <mrow data-mjx-texclass="ORD">
+      <mi>n</mi>
+    </mrow>
+  </munderover>
+  <mrow data-mjx-texclass="ORD">
+    <mfrac>
+      <msubsup>
+        <mi>u</mi>
+        <mrow data-mjx-texclass="ORD">
+          <mi>i</mi>
+        </mrow>
+        <mrow data-mjx-texclass="ORD">
+          <mn>2</mn>
+        </mrow>
+      </msubsup>
+      <msub>
+        <mi>v</mi>
+        <mrow data-mjx-texclass="ORD">
+          <mi>i</mi>
+        </mrow>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mstyle scriptlevel="0">
+    <mspace width="1em"></mspace>
+  </mstyle>
+  <mrow data-mjx-texclass="ORD">
+    <mtext>&#xA0;or equivalently,&#xA0;</mtext>
+  </mrow>
+  <mstyle scriptlevel="0">
+    <mspace width="1em"></mspace>
+  </mstyle>
+  <mrow data-mjx-texclass="ORD">
+    <mfrac>
+      <msup>
+        <mrow data-mjx-texclass="INNER">
+          <mo data-mjx-texclass="OPEN">(</mo>
+          <msub>
+            <mi>u</mi>
+            <mrow data-mjx-texclass="ORD">
+              <mn>1</mn>
+            </mrow>
+          </msub>
+          <mo>+</mo>
+          <msub>
+            <mi>u</mi>
+            <mrow data-mjx-texclass="ORD">
+              <mn>2</mn>
+            </mrow>
+          </msub>
+          <mo>+</mo>
+          <mo>&#x22EF;</mo>
+          <mo>+</mo>
+          <msub>
+            <mi>u</mi>
+            <mrow data-mjx-texclass="ORD">
+              <mi>n</mi>
+            </mrow>
+          </msub>
+          <mo data-mjx-texclass="CLOSE">)</mo>
+        </mrow>
+        <mrow data-mjx-texclass="ORD">
+          <mn>2</mn>
+        </mrow>
+      </msup>
+      <mrow>
+        <msub>
+          <mi>v</mi>
+          <mrow data-mjx-texclass="ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>v</mi>
+          <mrow data-mjx-texclass="ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <mo>&#x22EF;</mo>
+        <mo>+</mo>
+        <msub>
+          <mi>v</mi>
+          <mrow data-mjx-texclass="ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mo>&#x2264;</mo>
+  <mrow data-mjx-texclass="ORD">
+    <mfrac>
+      <msubsup>
+        <mi>u</mi>
+        <mrow data-mjx-texclass="ORD">
+          <mn>1</mn>
+        </mrow>
+        <mrow data-mjx-texclass="ORD">
+          <mn>2</mn>
+        </mrow>
+      </msubsup>
+      <msub>
+        <mi>v</mi>
+        <mrow data-mjx-texclass="ORD">
+          <mn>1</mn>
+        </mrow>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mo>+</mo>
+  <mrow data-mjx-texclass="ORD">
+    <mfrac>
+      <msubsup>
+        <mi>u</mi>
+        <mrow data-mjx-texclass="ORD">
+          <mn>2</mn>
+        </mrow>
+        <mrow data-mjx-texclass="ORD">
+          <mn>2</mn>
+        </mrow>
+      </msubsup>
+      <msub>
+        <mi>v</mi>
+        <mrow data-mjx-texclass="ORD">
+          <mn>2</mn>
+        </mrow>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mo>+</mo>
+  <mo>&#x22EF;</mo>
+  <mo>+</mo>
+  <mrow data-mjx-texclass="ORD">
+    <mfrac>
+      <msubsup>
+        <mi>u</mi>
+        <mrow data-mjx-texclass="ORD">
+          <mi>n</mi>
+        </mrow>
+        <mrow data-mjx-texclass="ORD">
+          <mn>2</mn>
+        </mrow>
+      </msubsup>
+      <msub>
+        <mi>v</mi>
+        <mrow data-mjx-texclass="ORD">
+          <mi>n</mi>
+        </mrow>
+      </msub>
+    </mfrac>
+  </mrow>
+</math>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
