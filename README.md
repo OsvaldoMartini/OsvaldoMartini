@@ -20,11 +20,20 @@
 
 - ⚡ Currently, I am working on a migration from Delphi Pascal (More than 60K lines of code done in 2004) for Java, Python, React, Kafka Stream, etc. 
 
-- $$\sum$$ If you want to participate, visit the repository: [Algol](https://github.com/OsvaldoMartini/OsvaldoMartini)
+- If you want to participate, visit the repository: [Algol](https://github.com/OsvaldoMartini/OsvaldoMartini)
 
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$ ![](https://geps.dev/progress/50) -> [Random Number Prediction Past -> Present -> Future](https://youtu.be/EDn2VHgbCCY)
+- ![Alt text](YouTube.png) [Random Number Prediction Past -> Present -> Future](https://youtu.be/EDn2VHgbCCY)
 
+ $$\sum$$
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$ 
 $${\frac {\left(\sum _{i=1}^{n}u_{i}\right)^{2}}{\sum _{i=1}^{n}v_{i}}}\leq \sum _{i=1}^{n}{\frac {u_{i}^{2}}{v_{i}}}\quad {\text{ or equivalently, }}\quad {\frac {\left(u_{1}+u_{2}+\cdots +u_{n}\right)^{2}}{v_{1}+v_{2}+\cdots +v_{n}}}\leq {\frac {u_{1}^{2}}{v_{1}}}+{\frac {u_{2}^{2}}{v_{2}}}+\cdots +{\frac {u_{n}^{2}}{v_{n}}}$$
+
+
+$${{\left(\sum _{i=1}^{n}u_{i}\right)^{2}}\over{\sum _{i=1}^{n}v_{i}}}\leq \sum _{i=1}^{n}{\frac {u_{i}^{2}}{v_{i}}}\quad{\text{ or equivalently, }}\quad$$
+
+
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
