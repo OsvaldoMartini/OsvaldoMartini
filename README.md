@@ -58,7 +58,7 @@ span {
 
 --------------------------------
 
-- Connect with me: [<img src="./linkedin.png" style="max-width: 94%;display: inline-block;vertical-align: middle" width="30"/>](https://www.linkedin.com/in/osvaldomartini/ "Osvaldo Martini!")
+- Connect with me: [<img src="./linkedin.png" style="max-width:100%;display:inline-block;vertical-align:middle" width="30"/>](https://www.linkedin.com/in/osvaldomartini/ "Osvaldo Martini!")
   
 <h3 align="left">Languages ​​and Tools:</h3>
 
