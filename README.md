@@ -29,6 +29,11 @@
 <a target="blank"><img align="center" src="base-maths.png"   /></a>
 </div>
 -->
+--------------------------------
+
+<h3 align="center">Some applied theorems:</h3>
+
+$${P ( A | B ) = \frac {\left(\Sigma_{i=1}^{n}{P ( B | A ) }.{P ( A) }\right)^{∞}}{\Sigma_{i=1}^{n}v_{∞}{P ( B) }}}\quad \leq \quad ∞$$
 
  
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
